@@ -7,7 +7,7 @@ public class Main {
         String[] str1 = {"one","two","three","four","five"};
         String[] str2 = {"one","six","seven","two","nine","one"};
         Scanner input = new Scanner(System.in);
-
         System.out.println("Merge two arrays");
+        int[] maxNumber = number1+number2;
     }
 }
