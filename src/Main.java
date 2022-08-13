@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Merge two arrays");
         int[] maxNumber = number1+number2;
         System.out.println(maxNumber);
+        System.out.println("Omid");
     }
 }
