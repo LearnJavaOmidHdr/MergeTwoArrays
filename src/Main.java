@@ -11,5 +11,7 @@ public class Main {
         int[] maxNumber = number1+number2;
         System.out.println(maxNumber);
         System.out.println("Omid");
+        System.out.println(number1);
+        System.out.println(number2);
     }
 }
